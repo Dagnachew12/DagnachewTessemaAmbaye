@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dagnachew Tessema 👋</h1>
 
 <h3 align="center">
-PhD Researcher • Biomedical Imaging Science and Engineering •UNIST • Ulsan • Korea
+PhD Researcher • Biomedical Imaging Science and Engineering Lab •UNIST • Ulsan • Korea
 </h3>
 
 <p align="center">
