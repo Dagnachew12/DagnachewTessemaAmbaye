@@ -39,7 +39,7 @@ Generative AI | Medical Image Synthesis | Medical AI | Computer Vision | Deep Le
 📅 September 2024 – Present *(Expected: Feburary 2028)*  
 
 **M.S. in Artificial Intelligence**  
-📅 September 2022 – 2024 *(Expected: August 2026)*  
+📅 September 2022 – 2024 
 📊 **GPA:** 4.04 / 4.30
 
 ---
@@ -55,22 +55,14 @@ Generative AI | Medical Image Synthesis | Medical AI | Computer Vision | Deep Le
 
 ## 🏆 Honors & Awards
 
-### 🎓 UNIST Graduate Scholarship
-**Ulsan National Institute of Science and Technology (UNIST), South Korea**  
-📅 2024 – Present  
-- Recipient of UNIST Scholarship to pursue a PhD. in **Biomedical Engineering**.
+- 🎓 **UNIST Graduate Scholarship** (2024–Present)  
+  *Ulsan National Institute of Science and Technology (UNIST), South Korea*  
+  - Awarded to pursue a **Ph.D. in Biomedical Engineering**.
 
----
+- 🥇 **Global Korea Scholarship (GKS)** (2022–2024)  
+  *Government of the Republic of Korea*  
+  - Awarded to pursue an **M.S. in Artificial Intelligence** at **UNIST**.
 
-### 🥇 Global Korea Scholarship (GKS)
-**Government of the Republic of Korea**  
-📅 2022 – 2024  
-- Awarded the prestigious **Global Korea Scholarship (GKS)** to pursue an M.S. in Artificial Intelligence at the **Ulsan National Institute of Science and Technology (UNIST)**.
-
----
-
-
-### 🏅 Recognition Certificate for Outstanding Academic Achievement
-**Addis Ababa University, Ethiopia**  
-📅 2018  
-- Awarded in recognition of **Outstanding Academic Achievement** during undergraduate studies in **Electrical and Computer Engineering**.
+- 🏅 **Recognition Certificate for Outstanding Academic Achievement** (2018)  
+  *Addis Ababa University, Ethiopia*  
+  - Awarded in recognition of outstanding academic performance in **Electrical and Computer Engineering**.
