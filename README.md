@@ -55,21 +55,22 @@ Generative AI | Medical Image Synthesis | Medical AI | Computer Vision | Deep Le
 
 ## 🏆 Honors & Awards
 
+### 🎓 UNIST Graduate Scholarship
+**Ulsan National Institute of Science and Technology (UNIST), South Korea**  
+📅 2024 – Present  
+- Recipient of UNIST Scholarship to pursue a PhD. in **Biomedical Engineering**.
+
+---
+
 ### 🥇 Global Korea Scholarship (GKS)
 **Government of the Republic of Korea**  
-📅 2024 – Present  
+📅 2022 – 2024  
 - Awarded the prestigious **Global Korea Scholarship (GKS)** to pursue an M.S. in Artificial Intelligence at the **Ulsan National Institute of Science and Technology (UNIST)**.
 
 ---
 
-### 🎓 UNIST Graduate Scholarship
-**Ulsan National Institute of Science and Technology (UNIST), South Korea**  
-📅 2024 – Present  
-- Recipient of a merit-based graduate scholarship supporting research in **Artificial Intelligence**.
-
----
 
 ### 🏅 Recognition Certificate for Outstanding Academic Achievement
 **Addis Ababa University, Ethiopia**  
-📅 2024  
+📅 2018  
 - Awarded in recognition of **Outstanding Academic Achievement** during undergraduate studies in **Electrical and Computer Engineering**.
